@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **CLOUD**
 
-- 🌱 I’m currently learning **AWS**
-
-- 💬 Ask me about **Python C++ C**
+- 🌱 I’m currently learning **AWS, Security**
 
 - 📫 How to reach me **ahmad34.codes@gmail.com**
 
