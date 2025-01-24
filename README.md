@@ -1,13 +1,12 @@
 ![MasterHead](https://camo.githubusercontent.com/91c0c50639feb83c9675e648e989b35117171876f126c3af52a522f266f1aeb7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)
-<h1 align="center">Hey 👋, I'm Ahmad</h1>
-<h3 align="center">A passionate Cloud Security Engineer</h3>
+<h1 align="center">Hey 👋, I'm Bakhtiyar Ahmad</h1>
+<h3 align="center">A passionate Web3 & Security Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://trilightsecurity.com/wp-content/uploads/2023/03/cybersec.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadcodes7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadcodes7" /> </p>
 
-- 🔭 I’m currently working on **CLOUD**
+- 🔭 I’m currently working on **Blockchain (Ethereum)**
 
-- 🌱 I’m currently learning **AWS, Security**
 
 - 📫 How to reach me **ahmad34.codes@gmail.com**
 
