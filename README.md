@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadcodes7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadcodes7" /> </p>
 
-- 🔭 I’m currently learning on **CCNA**
+- 🔭 I’m currently doing **CCNP**
 
 
 - 📫 How to reach me **ahmad34.codes@gmail.com**
