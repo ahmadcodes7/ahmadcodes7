@@ -58,11 +58,11 @@ CCNA (200-301) ──► CCNP Enterprise (350-401) ──► CCNP Security (350-
 
 ## 🚀 Projects
 
-[![Networking & Security Labs](https://img.shields.io/badge/🔬%20Networking%20%26%20Security%20Labs-CCNA%20%7C%20CCNP%20%7C%20Security-00d4ff?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/ahmadcodes7)
+[![Networking & Security Labs](https://img.shields.io/badge/🔬%20Networking%20%26%20Security%20Labs-CCNA%20%7C%20CCNP%20%7C%20Security-00d4ff?style=for-the-badge&logo=cisco&logoColor=white)]([https://github.com/ahmadcodes7](https://github.com/ahmadcodes7?tab=repositories))
 
 > Hands-on labs across **CCNA**, **CCNP Enterprise**, and **CCNP Security** tracks — routing protocols, switching, VLANs, firewalls, ACLs, GRE/IPsec VPNs. Built in GNS3 & EVE-NG with full configs and topology diagrams.
 
-[![Provenix — Blockchain Auth](https://img.shields.io/badge/⛓️%20Provenix-Blockchain%20Product%20Auth%20System-7c3aed?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/ahmadcodes7)
+[![Provenix — Blockchain Auth](https://img.shields.io/badge/⛓️%20Provenix-Blockchain%20Product%20Auth%20System-7c3aed?style=for-the-badge&logo=ethereum&logoColor=white)]([https://github.com/ahmadcodes7](https://provenix-authentication.vercel.app/))
 
 > Led a 5-member cross-functional team to ship a blockchain-based authentication platform using **Ethereum Attestation Service (EAS)** and Solidity RBAC smart contracts. Selected for **STPI APIARY Centre of Excellence**.
 
